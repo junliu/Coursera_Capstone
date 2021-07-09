@@ -1,6 +1,6 @@
 # IBM Data Science Course Capstone
 
-## Weekd 1
+## Week 1
 
 ### Overview
 
@@ -21,4 +21,4 @@ Push the Notebook to your Github repository and submit a link to the notebook on
 
 
 
-Link to the notebook to be peer reviewed:
+Link to the notebook to be peer reviewed:https://github.com/junliu/Coursera_Capstone/blob/main/W1_Data_Science_Capstone_Project.ipynb
